@@ -1,0 +1,50 @@
+Compilar y ejecutar con make
+
+Se muestran los objetos
+
+Pulsando Q cierra el programa
+
+Pulsando O se accede al modo objetos:
+	Pulsando C muestra el cubo
+	Pulsando P muestra la pirámide
+	Pulsando J muestra varios objetos en la escena
+	Pulsando H muestra la Hello Kitty
+	Pulsando Q sale del modo objetos
+
+Pulsando V se accede al modo visualización:
+	Pulsando S muestra o deja de mostrar en estado sólido
+	Pulsando L muestra o deja de mostrar las lineas
+	Pulsando P muestra o deja de mostrar los puntos
+
+	Pulsando I entra o sale del modo iluminación
+		Pulsando 0 activa la luz 0
+		Pulsando 1 activa la luz 1
+
+		Pulsando A modifica el angulo variación a ALFA
+		Pulsando B modifica el angulo variación a BETA
+
+		Pulsando < decrementa una unidad el angulo seleccionado
+		Pulsando > incrementa una unidad el angulo seleccionado
+
+	Pulsando Q sale del modo visualización
+
+Pulsando A se accede al modo de movimiento automático:
+	Pulsando + aumenta la velocidad
+	Pulsando - disminuye la velocidad
+	Pulsando Q sale del modo de movimiento automático
+
+Pulsando M se accede al modo de movimiento manual:
+	Pulsando 0 accedemos al modo caminar de la Hello Kitty
+	Pulsando 1 accedemos al modo negar con la cabeza de la Hello Kitty
+	Pulsando 2 accedemos al modo afirmar con la cabeza de la Hello Kitty
+	Pulsando 3 accedemos al modo mover brazo derecho en el eje Z de la Hello Kitty
+	Pulsando 4 accedemos al modo mover brazo izquierdo en el eje Z de la Hello Kitty
+	Pulsando 5 accedemos al modo mover brazo derecho en el eje X de la Hello Kitty
+	Pulsando 6 accedemos al modo mover brazo izquierdo en el eje X de la Hello Kitty
+	Pulsando 7 accedemos al modo mover pierna derecha de la Hello Kitty
+	Pulsando 8 accedemos al modo mover pierna izquierda de la Hello Kitty
+
+	Pulsando + aumenta el grado de movimiento
+	Pulsando - disminuye el grado de movimiento
+
+	Pulsando Q sale del modo de movimiento manual
